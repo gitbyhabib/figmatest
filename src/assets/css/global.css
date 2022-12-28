@@ -1,0 +1,82 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-averta-demo-pe-cutted-demo: "Averta Demo PE Cutted Demo";
+  --font-dm-sans: "DM Sans";
+  --font-integral-cf: "Integral CF";
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xs: 10.97px;
+  --font-size-4xs: 10px;
+  --font-size-3xs: 11px;
+  --font-size-2xs: 12.16px;
+  --font-size-xs: 12px;
+  --font-size-sm: 13.16px;
+  --font-size-base: 14px;
+  --font-size-lg: 15.36px;
+  --font-size-xl: 16px;
+  --font-size-2xl: 18px;
+  --font-size-3xl: 19.75px;
+  --font-size-4xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-6xl: 28px;
+  --font-size-7xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #f5f5f5;
+  --color-gray-200: #f4f4f4;
+  --color-gray-300: #f0f0f0;
+  --color-gray-400: #efefef;
+  --color-gray-500: #838383;
+  --color-gray-600: #757575;
+  --color-gray-700: #696969;
+  --color-gray-800: #636363;
+  --color-gray-900: #565656;
+  --color-gray-1000: #3d3d3d;
+  --color-gray-1100: #3a3a3a;
+  --color-gray-1200: #363639;
+  --color-gray-1300: rgba(217, 224, 236, 0.2);
+  --color-gray-1400: rgba(242, 242, 242, 0.5);
+  --color-gray-1500: rgba(220, 220, 220, 0.2);
+  --color-blue: #2639ed;
+  --color-black: #000;
+  --color-indigo-100: #5539a8;
+  --color-indigo-200: #4f33a3;
+  --color-indigo-300: #3d00b7;
+  --color-indigo-400: #220970;
+  --color-green: #00ac4f;
+  --color-red: #ff002e;
+  --color-turquoise: #14c8b0;
+
+  /* Gaps */
+  --gap-sm: 5.49px;
+  --gap-md: 5px;
+
+  /* Paddings */
+  --padding-3xs: 4.388235092163086px;
+  --padding-2xs: 8px;
+  --padding-xs: 10px;
+  --padding-sm: 10.970587730407715px;
+  --padding-md: 14px;
+  --padding-lg: 18px;
+  --padding-xl: 20px;
+  --padding-2xl: 40px;
+
+  /* border radiuses */
+  --br-5xs: 6.58px;
+  --br-4xs: 6px;
+  --br-3xs: 11px;
+  --br-2xs: 12px;
+  --br-xs: 13.16px;
+  --br-sm: 18.6px;
+  --br-md: 21.36px;
+  --br-lg: 24px;
+  --br-xl: 45.59px;
+  --br-2xl: 50px;
+  --br-3xl: 60px;
+  --br-4xl: 100px;
+  --br-5xl: 109.71px;
+}
