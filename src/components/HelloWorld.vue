@@ -3,29 +3,32 @@
     <div class="top-menu">
       <b class="nfters"> <a href="#">NFters</a> </b>
       <div class="connect-wallet-wrapper">
-        <b class="connect-wallet">Connect Wallet</b>
+        <b class="connect-wallet"> <button>Connect Wallet</button></b>
       </div>
-      <div class="upload-wrapper"><b class="connect-wallet">Upload</b></div>
+      <div class="upload-wrapper">
+        <b class="connect-wallet"><button class="text-white">Upload</button></b>
+      </div>
       <div class="marketplace-parent">
-        <div class="marketplace"><a href="#">Marketplace</a> </div>
+        <div class="marketplace"><a href="#">Marketplace</a></div>
         <div class="resource"><a href="#">Resource</a></div>
         <div class="about"><a href="#">About</a></div>
       </div>
       <div class="top-menu-child"></div>
       <div class="top-menu-item"></div>
       <div class="top-menu-inner"></div>
-      <div class="search">Search</div>
+      <input type="search" placeholder="Search" class="search" />
       <img
         class="search-normal-1-1-icon"
         alt=""
-     
         src="../assets/image/searchnormal1-1.svg"
       />
     </div>
     <div class="hero">
       <img class="dot-icon" alt="" src="../assets/image/dot.svg" />
       <div class="explore-now-wrapper">
-        <div class="explore-now">Explore Now</div>
+        <div class="explore-now">
+          <button class="text-white">Explore Now</button>
+        </div>
       </div>
       <div class="discover-and-collect-digital">
         Discover, and collect Digital Art NFTs
@@ -69,12 +72,20 @@
           </div>
           <div class="current-bid">Current Bid</div>
           <div class="ends-in">Ends in</div>
-          <img class="ethereum-2-icon" alt="" src="../assets/image/ethereum-2.svg" />
+          <img
+            class="ethereum-2-icon"
+            alt=""
+            src="../assets/image/ethereum-2.svg"
+          />
         </div>
       </div>
       <div class="arkhan17-parent">
         <b class="arkhan17">Arkhan17</b
-        ><img class="group-item" alt="" src="../assets/image/ellipse-95@2x.png" />
+        ><img
+          class="group-item"
+          alt=""
+          src="../assets/image/ellipse-95@2x.png"
+        />
       </div>
       <b class="abstr-gradient-nft">Abstr Gradient NFT</b>
       <div class="ellipse-parent">
@@ -111,7 +122,11 @@
           <div class="div1">•</div>
           <div class="text5"></div>
         </div>
-        <img class="ethereum-2-icon1" alt="" src="../assets/image/ethereum-21.svg" />
+        <img
+          class="ethereum-2-icon1"
+          alt=""
+          src="../assets/image/ethereum-21.svg"
+        />
       </div>
     </div>
     <div class="amaze-nft">
@@ -126,8 +141,8 @@
           src="../assets/image/chartsquare-2.svg"
         /><b class="growth-transaction">Growth Transaction</b>
         <div class="lorem-ipsum-dolor-sit-amet-co">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-          etiam viverra tellus
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam
+          viverra tellus
         </div>
       </div>
       <div class="card-tick-1-1-parent">
@@ -137,8 +152,8 @@
           src="../assets/image/cardtick1-1.svg"
         /><b class="growth-transaction">Fast Transaction</b>
         <div class="lorem-ipsum-dolor-sit-amet-co1">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-          etiam viverra tellus imperdiet.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam
+          viverra tellus imperdiet.
         </div>
       </div>
     </div>
@@ -151,11 +166,19 @@
       <div class="the-futr-abstr-parent">
         <b class="the-futr-abstr">The Futr Abstr</b>
         <div class="in-the-stock">10 in the stock</div>
-        <img class="ellipse-icon" alt="" src="../assets/image/ellipse-951@2x.png" />
+        <img
+          class="ellipse-icon"
+          alt=""
+          src="../assets/image/ellipse-951@2x.png"
+        />
         <div class="eth-group">
           <b class="eth">0.25 ETH</b>
           <div class="current-bid">Highest Bid</div>
-          <img class="ethereum-2-icon" alt="" src="../assets/image/ethereum-22.svg" />
+          <img
+            class="ethereum-2-icon"
+            alt=""
+            src="../assets/image/ethereum-22.svg"
+          />
         </div>
       </div>
       <div class="group-parent">
@@ -170,7 +193,11 @@
         <div class="the-futr-abstr-group">
           <b class="the-futr-abstr1">The Futr Abstr</b>
           <div class="of-8">1 of 8</div>
-          <img class="group-child1" alt="" src="../assets/image/ellipse-952@2x.png" />
+          <img
+            class="group-child1"
+            alt=""
+            src="../assets/image/ellipse-952@2x.png"
+          />
           <div class="ethereum-2-parent">
             <img
               class="ethereum-2-icon3"
@@ -179,7 +206,9 @@
             /><b class="eth2">0.25 ETH</b>
           </div>
           <div class="cta-place-a-bid">
-            <div class="place-a-bid">Place a bid</div>
+            <div class="place-a-bid">
+              <button class="text-white">Place a bid</button>
+            </div>
           </div>
         </div>
       </div>
@@ -195,7 +224,11 @@
         <div class="the-futr-abstr-group">
           <b class="the-futr-abstr1">The Futr Abstr</b>
           <div class="of-8">1 of 8</div>
-          <img class="group-child1" alt="" src="../assets/image/ellipse-952@2x.png" />
+          <img
+            class="group-child1"
+            alt=""
+            src="../assets/image/ellipse-952@2x.png"
+          />
           <div class="ethereum-2-parent">
             <img
               class="ethereum-2-icon3"
@@ -204,7 +237,7 @@
             /><b class="eth2">0.25 ETH</b>
           </div>
           <div class="place-a-bid-wrapper">
-            <div class="place-a-bid1">Place a bid</div>
+            <div class="place-a-bid1"><button>Place a bid</button></div>
           </div>
         </div>
       </div>
@@ -220,7 +253,11 @@
         <div class="the-futr-abstr-group">
           <b class="the-futr-abstr1">The Futr Abstr</b>
           <div class="of-8">1 of 8</div>
-          <img class="group-child1" alt="" src="../assets/image/ellipse-952@2x.png" />
+          <img
+            class="group-child1"
+            alt=""
+            src="../assets/image/ellipse-952@2x.png"
+          />
           <div class="ethereum-2-parent">
             <img
               class="ethereum-2-icon3"
@@ -229,7 +266,7 @@
             /><b class="eth2">0.25 ETH</b>
           </div>
           <div class="place-a-bid-wrapper">
-            <div class="place-a-bid1">Place a bid</div>
+            <div class="place-a-bid1"><button>Place a bid</button></div>
           </div>
         </div>
       </div>
@@ -246,7 +283,11 @@
         <div class="div2">+26.52%</div>
         <div class="parent">
           <div class="div3">19,769.39</div>
-          <img class="ethereum-1-icon" alt="" src="../assets/image/ethereum-1.svg" />
+          <img
+            class="ethereum-1-icon"
+            alt=""
+            src="../assets/image/ethereum-1.svg"
+          />
         </div>
         <div class="verify-1">
           <div class="verify-1-child"></div>
@@ -263,7 +304,11 @@
         <div class="div4">+10.52%</div>
         <div class="group">
           <div class="div3">2,769.39</div>
-          <img class="ethereum-1-icon" alt="" src="../assets/image/ethereum-11.svg" />
+          <img
+            class="ethereum-1-icon"
+            alt=""
+            src="../assets/image/ethereum-11.svg"
+          />
         </div>
       </div>
       <div class="unsplash5mtf9xyvvgm-parent">
@@ -276,7 +321,11 @@
         <div class="div6">+2.52%</div>
         <div class="group">
           <div class="div3">9,232.39</div>
-          <img class="ethereum-1-icon" alt="" src="../assets/image/ethereum-12.svg" />
+          <img
+            class="ethereum-1-icon"
+            alt=""
+            src="../assets/image/ethereum-12.svg"
+          />
         </div>
       </div>
       <div class="unsplashzknt5mikuuo-parent">
@@ -289,7 +338,11 @@
         <div class="div8">+1.52%</div>
         <div class="parent1">
           <div class="div3">3,769.39</div>
-          <img class="ethereum-1-icon" alt="" src="../assets/image/ethereum-13.svg" />
+          <img
+            class="ethereum-1-icon"
+            alt=""
+            src="../assets/image/ethereum-13.svg"
+          />
         </div>
         <div class="verify-11">
           <div class="verify-1-child"></div>
@@ -306,7 +359,11 @@
         <div class="div10">+2.52%</div>
         <div class="parent2">
           <div class="div3">10,769.39</div>
-          <img class="ethereum-1-icon" alt="" src="../assets/image/ethereum-14.svg" />
+          <img
+            class="ethereum-1-icon"
+            alt=""
+            src="../assets/image/ethereum-14.svg"
+          />
         </div>
       </div>
       <div class="collection-over-item"></div>
@@ -419,7 +476,9 @@
     </div>
     <div class="sign-up-nft">
       <div class="sign-up-now-wrapper">
-        <div class="explore-now">Sign Up Now</div>
+        <div class="explore-now">
+          <button class="text-white">Sign Up Now</button>
+        </div>
       </div>
       <img
         class="unsplashtzcrfpsniiq-icon1"
@@ -437,7 +496,11 @@
         class="sign-up-nft-child"
         alt=""
         src="../assets/image/group-105.svg"
-      /><img class="sign-up-nft-item" alt="" src="../assets/image/group-106.svg" /><img
+      /><img
+        class="sign-up-nft-item"
+        alt=""
+        src="../assets/image/group-106.svg"
+      /><img
         class="sign-up-nft-inner"
         alt=""
         src="../assets/image/group-107.svg"
@@ -445,8 +508,8 @@
       <div class="lorem-ipsum-dolor-sit-amet-co2">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi ac
         phasellus placerat a pellentesque tellus sed egestas. Et tristique
-        dictum sit tristique sed non. Lacinia lorem id consectetur pretium
-        diam ut. Pellentesque eu sit blandit fringilla risus faucibus.
+        dictum sit tristique sed non. Lacinia lorem id consectetur pretium diam
+        ut. Pellentesque eu sit blandit fringilla risus faucibus.
       </div>
     </div>
     <div class="discover-nft">
@@ -461,10 +524,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon" alt="" src="../assets/image/image-1@2x.png" /><b
-          class="kingcrypto"
-          >ArtCrypto</b
-        >
+        <img
+          class="image-1-icon"
+          alt=""
+          src="../assets/image/image-1@2x.png"
+        /><b class="kingcrypto">ArtCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -491,7 +555,7 @@
             src="../assets/image/ethereum-26.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft1">
         <div class="content-lisitng-nft-child"></div>
@@ -502,10 +566,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon1" alt="" src="../assets/image/image-11@2x.png" /><b
-          class="kingcrypto"
-          >ArtCrypto</b
-        >
+        <img
+          class="image-1-icon1"
+          alt=""
+          src="../assets/image/image-11@2x.png"
+        /><b class="kingcrypto">ArtCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -532,7 +597,7 @@
             src="../assets/image/ethereum-27.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft2">
         <div class="content-lisitng-nft-child"></div>
@@ -543,10 +608,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon" alt="" src="../assets/image/image-1@2x.png" /><b
-          class="kingcrypto"
-          >ArtCrypto</b
-        >
+        <img
+          class="image-1-icon"
+          alt=""
+          src="../assets/image/image-1@2x.png"
+        /><b class="kingcrypto">ArtCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -573,7 +639,7 @@
             src="../assets/image/ethereum-28.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft3">
         <div class="content-lisitng-nft-child"></div>
@@ -584,10 +650,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-13@2x.png" /><b
-          class="kingcrypto"
-          >ArtCrypto</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-13@2x.png"
+        /><b class="kingcrypto">ArtCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -614,7 +681,7 @@
             src="../assets/image/ethereum-29.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft4">
         <div class="content-lisitng-nft-child"></div>
@@ -625,10 +692,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-14@2x.png" /><b
-          class="kingcrypto"
-          >This NFT</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-14@2x.png"
+        /><b class="kingcrypto">This NFT</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -655,7 +723,7 @@
             src="../assets/image/ethereum-210.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft5">
         <div class="content-lisitng-nft-child"></div>
@@ -666,10 +734,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-15@2x.png" /><b
-          class="kingcrypto"
-          >This NFT</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-15@2x.png"
+        /><b class="kingcrypto">This NFT</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -696,7 +765,7 @@
             src="../assets/image/ethereum-211.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft6">
         <div class="content-lisitng-nft-child"></div>
@@ -707,10 +776,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon1" alt="" src="../assets/image/image-16@2x.png" /><b
-          class="kingcrypto"
-          >This NFT</b
-        >
+        <img
+          class="image-1-icon1"
+          alt=""
+          src="../assets/image/image-16@2x.png"
+        /><b class="kingcrypto">This NFT</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -737,7 +807,7 @@
             src="../assets/image/ethereum-212.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft7">
         <div class="content-lisitng-nft-child"></div>
@@ -748,10 +818,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-14@2x.png" /><b
-          class="kingcrypto"
-          >This NFT</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-14@2x.png"
+        /><b class="kingcrypto">This NFT</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -778,7 +849,7 @@
             src="../assets/image/ethereum-213.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft8">
         <div class="content-lisitng-nft-child"></div>
@@ -789,10 +860,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-18@2x.png" /><b
-          class="kingcrypto"
-          >NameCrypto</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-18@2x.png"
+        /><b class="kingcrypto">NameCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -819,7 +891,7 @@
             src="../assets/image/ethereum-214.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft9">
         <div class="content-lisitng-nft-child"></div>
@@ -830,10 +902,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon" alt="" src="../assets/image/image-19@2x.png" /><b
-          class="kingcrypto"
-          >NameCrypto</b
-        >
+        <img
+          class="image-1-icon"
+          alt=""
+          src="../assets/image/image-19@2x.png"
+        /><b class="kingcrypto">NameCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -860,7 +933,7 @@
             src="../assets/image/ethereum-215.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft10">
         <div class="content-lisitng-nft-child"></div>
@@ -871,10 +944,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-110@2x.png" /><b
-          class="kingcrypto"
-          >NameCrypto</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-110@2x.png"
+        /><b class="kingcrypto">NameCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -901,7 +975,7 @@
             src="../assets/image/ethereum-216.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft11">
         <div class="content-lisitng-nft-child"></div>
@@ -912,10 +986,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon" alt="" src="../assets/image/image-19@2x.png" /><b
-          class="kingcrypto"
-          >NameCrypto</b
-        >
+        <img
+          class="image-1-icon"
+          alt=""
+          src="../assets/image/image-19@2x.png"
+        /><b class="kingcrypto">NameCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -942,7 +1017,7 @@
             src="../assets/image/ethereum-217.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft12">
         <div class="content-lisitng-nft-child"></div>
@@ -953,10 +1028,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon1" alt="" src="../assets/image/image-112@2x.png" /><b
-          class="kingcrypto"
-          >KingCrypto</b
-        >
+        <img
+          class="image-1-icon1"
+          alt=""
+          src="../assets/image/image-112@2x.png"
+        /><b class="kingcrypto">KingCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -983,7 +1059,7 @@
             src="../assets/image/ethereum-218.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft13">
         <div class="content-lisitng-nft-child"></div>
@@ -994,10 +1070,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-113@2x.png" /><b
-          class="kingcrypto"
-          >KingCrypto</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-113@2x.png"
+        /><b class="kingcrypto">KingCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -1024,7 +1101,7 @@
             src="../assets/image/ethereum-219.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft14">
         <div class="content-lisitng-nft-child"></div>
@@ -1035,10 +1112,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon3" alt="" src="../assets/image/image-114@2x.png" /><b
-          class="kingcrypto"
-          >KingCrypto</b
-        >
+        <img
+          class="image-1-icon3"
+          alt=""
+          src="../assets/image/image-114@2x.png"
+        /><b class="kingcrypto">KingCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -1065,7 +1143,7 @@
             src="../assets/image/ethereum-220.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="content-lisitng-nft15">
         <div class="content-lisitng-nft-child"></div>
@@ -1076,10 +1154,11 @@
             ><span class="span"> left</span>
           </div>
         </div>
-        <img class="image-1-icon1" alt="" src="../assets/image/image-112@2x.png" /><b
-          class="kingcrypto"
-          >KingCrypto</b
-        >
+        <img
+          class="image-1-icon1"
+          alt=""
+          src="../assets/image/image-112@2x.png"
+        /><b class="kingcrypto">KingCrypto</b>
         <div class="of-321">1 of 321</div>
         <div class="content-lisitng-nft-item"></div>
         <img
@@ -1106,12 +1185,14 @@
             src="../assets/image/ethereum-221.svg"
           /><b class="eth2">0.25 ETH</b>
         </div>
-        <div class="place-a-bid3">Place a bid</div>
+        <div class="place-a-bid3"><button>Place a bid</button></div>
       </div>
       <div class="filter">
         <div class="menu">
           <div class="tab-active">
-            <div class="all-categories">All Categories</div>
+            <div class="all-categories">
+              <button class="text-white">All Categories</button>
+            </div>
           </div>
           <div class="tab-non-active">
             <div class="all-categories">Art</div>
@@ -1141,20 +1222,24 @@
           <div class="all-categories">All Filters</div>
         </div>
       </div>
-      <div class="cta-more-nft"><div class="more-nfts">More NFTs</div></div>
+      <div class="cta-more-nft">
+        <div class="more-nfts">
+          <button>More NFTs</button>
+        </div>
+      </div>
     </div>
     <div class="footer">
       <div class="marketplace1">
         <div class="all-nfts-new-art-sports-utilit">
-          <p class="all-nfts">All NFTs</p>
-          <p class="all-nfts">New</p>
-          <p class="all-nfts">Art</p>
-          <p class="all-nfts">Sports</p>
-          <p class="all-nfts">Utility</p>
-          <p class="all-nfts">Music</p>
-          <p class="domain-name">Domain Name</p>
+          <p class="all-nfts"><a href="#">All NFTs</a></p>
+          <p class="all-nfts"><a href="#">New</a></p>
+          <p class="all-nfts"><a href="#">Art</a></p>
+          <p class="all-nfts"><a href="#">Sports</a></p>
+          <p class="all-nfts"><a href="#">Utility</a></p>
+          <p class="all-nfts"><a href="#">Music</a></p>
+          <p class="domain-name"><a href="#">Domain Name</a></p>
         </div>
-        <b class="market-place">Market Place</b>
+        <b class="market-place"><a href="#">Market Place</a></b>
       </div>
       <div class="nft-marketplace">
         <b class="nfters1">NFters </b>
@@ -1163,20 +1248,32 @@
           collectibles and non-fungible tokens (NFTs). Buy, sell, and discover
           exclusive digital items.
         </div>
-        <img class="facebook-icon" alt="" src="../assets/image/facebook.svg" /><img
-          class="twitter-icon"
-          alt=""
-          src="../assets/image/twitter.svg"
-        /><img class="linkedin-icon" alt="" src="../assets/image/linkedin.svg" />
+        <button>
+          <img
+            class="facebook-icon"
+            alt=""
+            src="../assets/image/facebook.svg"
+          />
+        </button>
+        <button>
+          <img class="twitter-icon" alt="" src="../assets/image/twitter.svg" />
+        </button>
+        <button>
+          <img
+            class="linkedin-icon"
+            alt=""
+            src="../assets/image/linkedin.svg"
+          />
+        </button>
       </div>
       <div class="my-account">
         <div class="all-nfts-new-art-sports-utilit">
-          <p class="all-nfts">Profile</p>
-          <p class="all-nfts">Favorite</p>
-          <p class="all-nfts">My Collections</p>
-          <p class="all-nfts">Settings</p>
+          <p class="all-nfts"><a href="#">Profile</a></p>
+          <p class="all-nfts"><a href="#">Favorite</a></p>
+          <p class="all-nfts"><a href="#">My Collections</a></p>
+          <p class="all-nfts"><a href="#">Settings</a></p>
         </div>
-        <b class="my-account1">My Account</b>
+        <b class="my-account1"><a href="#">My Account</a></b>
       </div>
       <div class="stay-in-the-loop">
         <div class="join-our-mailing-list-to-stay">
@@ -1186,14 +1283,20 @@
         <b class="stay-in-the-loop1">Stay in the loop</b>
         <div class="field-email">
           <div class="field-email-child"></div>
-          <input type="email" placeholder="Enter your email address.."  class="enter-your-email-address">
-          <div class="cta"><button class="subscibe-now">Subscibe Now</button></div>
+          <input
+            type="email"
+            placeholder="Enter your email address.."
+            class="enter-your-email-address"
+          />
+          <div class="cta">
+            <button class="subscibe-now">
+              <button class="text-white">Subscibe Now</button>
+            </button>
+          </div>
         </div>
       </div>
       <div class="copyright">
-        <div class="copyright-2022-avi-yansah">
-          Copyright © 2022 Avi Yansah
-        </div>
+        <div class="copyright-2022-avi-yansah">Copyright © 2022 Avi Yansah</div>
         <div class="copyright-child"></div>
       </div>
     </div>
@@ -1202,11 +1305,11 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: "HelloWorld",
   props: {
-    msg: String
-  }
-}
+    msg: String,
+  },
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
@@ -1222,24 +1325,24 @@ li {
   display: inline-block;
   margin: 0 10px;
 }
-input{
+input {
   outline-offset: 0ch;
   border: 0px;
 }
-input:focus{
+input:focus {
   outline: none;
 }
-button{
+button {
   outline: none;
   background-color: inherit;
   border: 0;
 }
 a {
- list-style-type: none;
- color: inherit;
+  list-style-type: none;
+  color: inherit;
 }
 
-a:hover{
+a:hover {
   color: indigo;
 }
 </style>

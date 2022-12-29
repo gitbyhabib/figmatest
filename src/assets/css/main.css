@@ -2178,7 +2178,7 @@ body {
   }
   
 
- b>a,.marketplace>a,.resource>a,.about>a{
+ b>a,.marketplace>a,.resource>a,.about>a,p>a{
     text-decoration: none;
    
   }
